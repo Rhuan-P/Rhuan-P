@@ -2,7 +2,7 @@
 
 <h3 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7B6&center=true&vCenter=true&width=500&lines=Backend+Developer;Automação+de+Processos;Eficiência+Operacional;Python+%7C+Django+%7C+Flask" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7B6&center=true&vCenter=true&width=500&lines=FullStack+Developer;Automação+de+Processos;Eficiência+Operacional;Python+%7C+Django+%7C+Flask" />
   </a>
 </h3>
 
